@@ -1,0 +1,24 @@
+C:\Users\idkai\source\repos\TTB OfficeTools\TTB OfficeTools\bin\Debug\TTB OfficeTools.exe.config
+C:\Users\idkai\source\repos\TTB OfficeTools\TTB OfficeTools\bin\Debug\TTB OfficeTools.exe
+C:\Users\idkai\source\repos\TTB OfficeTools\TTB OfficeTools\bin\Debug\TTB OfficeTools.pdb
+C:\Users\idkai\source\repos\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB OfficeTools.csproj.AssemblyReference.cache
+C:\Users\idkai\source\repos\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB OfficeTools.csproj.SuggestedBindingRedirects.cache
+C:\Users\idkai\source\repos\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB_OfficeTools.Main.resources
+C:\Users\idkai\source\repos\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB_OfficeTools.Properties.Resources.resources
+C:\Users\idkai\source\repos\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB OfficeTools.csproj.GenerateResource.cache
+C:\Users\idkai\source\repos\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB OfficeTools.csproj.CoreCompileInputs.cache
+C:\Users\idkai\source\repos\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB OfficeTools.exe
+C:\Users\idkai\source\repos\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB OfficeTools.pdb
+C:\Users\idkai\source\repos\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB_OfficeTools.AboutBox1.resources
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\TTB OfficeTools\TTB OfficeTools\bin\Debug\TTB OfficeTools.exe.config
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\TTB OfficeTools\TTB OfficeTools\bin\Debug\TTB OfficeTools.exe
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\TTB OfficeTools\TTB OfficeTools\bin\Debug\TTB OfficeTools.pdb
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB OfficeTools.csproj.AssemblyReference.cache
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB OfficeTools.csproj.SuggestedBindingRedirects.cache
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB_OfficeTools.AboutBox1.resources
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB_OfficeTools.Main.resources
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB_OfficeTools.Properties.Resources.resources
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB OfficeTools.csproj.GenerateResource.cache
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB OfficeTools.csproj.CoreCompileInputs.cache
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB OfficeTools.exe
+\\Mac\Windows 공유 폴더\VS 프로젝트 파일\TTB OfficeTools\TTB OfficeTools\obj\Debug\TTB OfficeTools.pdb
